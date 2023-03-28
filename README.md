@@ -1,3 +1,11 @@
+# To-Do
+A simple application build with React which uses important concepts of react like useState() & useEffect(). TO-DO helps keeping you track your tasks which you can even mark completed upon completion and even delete tasks if not required anymore.
+
+# RESULT
+
+<img width="1437" alt="Screenshot 2023-03-28 at 7 41 19 PM" src="https://user-images.githubusercontent.com/94075388/228340304-3b51a346-8852-4df8-ad63-b3e736c7110e.png">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
